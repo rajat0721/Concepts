@@ -1,2 +1,4 @@
 # DSA
-trying new stuff here 
+trying new stuff here
+-Recurssion 
+-Array
