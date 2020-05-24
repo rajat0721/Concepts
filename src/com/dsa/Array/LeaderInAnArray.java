@@ -13,7 +13,7 @@ public class LeaderInAnArray {
 
     public static void leader(int[] arr){
          int n,max = 0;
-        ArrayList<Integer> a = new ArrayList<Integer>();
+        ArrayList<Integer> a = new ArrayList<>();
          for(n=arr.length-1;n>=0;n--){
              if(arr[n]>max){
                  System.out.print(arr[n]+" ");
